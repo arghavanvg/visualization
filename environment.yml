@@ -1,0 +1,10 @@
+name: md-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - mdtraj
+  - mdanalysis
+  - nglview
+  - py3Dmol
+  - ipywidgets
